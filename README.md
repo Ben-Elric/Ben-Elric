@@ -4,5 +4,5 @@
 ### 🌱 Ability: C++, Python, MATLAB & a little vue.
 ### 👊 What do i do: N/A.
 ### 📫 How to reach me: twitter [@benelric1](https://twitter.com/BenElric1).
-### 👉 My blog: [iben7.xyz](http://iben7.xyz/).
+### 👉 My blog: [iben7.xyz](http://iben7.xyz/)(temporarily abandoned.
 ### 💌 My email: b.elric@njust.edu.cn
