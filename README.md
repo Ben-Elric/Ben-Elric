@@ -1,5 +1,6 @@
 ### Hi there 👋 ---->
 ### 🤔 My major: Optical Engineering.
+### ⚓ My research interest: Photoelectric detection technology & Image Processing.
 ### 🌱 Ability: C++, Python, MATLAB & a little vue.
 ### 👊 What do i do: N/A.
 ### 📫 How to reach me: twitter [@benelric1](https://twitter.com/BenElric1).
