@@ -6,6 +6,6 @@
 ### 📫 How to reach me: twitter [@benelric1](https://twitter.com/BenElric1).
 ### 👉 My blog: [iben7.xyz](http://iben7.xyz/)(temporarily abandoned.
 ### 💌 My email: b.elric@njust.edu.cn
-### 🤣 Ch:[趣味チャネル](https://t.me/+HUqsYzLIRB43NmU1).
+### 🤣 Ch: [趣味チャネル](https://t.me/+HUqsYzLIRB43NmU1).
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ben-Elric)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Elric)](https://github.com/anuraghazra/github-readme-stats)
