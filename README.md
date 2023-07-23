@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🤔 My major: Electronic Science and Technology.
+### 🤔 My major: Optical Engineering.
 ### ⚓ My research interest: Photoelectric detection technology & Image Processing.
 ### 🌱 Ability: C++, Python, MATLAB & a little vue.
 ### 👊 What do i do: GPT-Prompter.XD
